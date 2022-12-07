@@ -1,2 +1,10 @@
-https://www.netflix.com/msl/playapi/cadmium/event/1?reqAttempt=1&reqName=events/adProgress
-||biene24.de
+netflix.com/msl/playapi/cadmium/event/1?reqAttempt=1&reqName=events/adProgress
+
+netflix.com/msl/playapi/cadmium/event/1?reqAttempt=#&reqName=events/adStart
+netflix.com/msl/playapi/cadmium/event/1?reqAttempt=*&reqName=events/adStart
+netflix.com/msl/playapi/cadmium/event/1?reqAttempt=.&reqName=events/adStart
+netflix.com/msl/playapi/cadmium/event/1?reqAttempt=[1-9]&reqName=events/adStart
+// https://www.netflix.com/msl/playapi/cadmium/event/1?reqAttempt=1&reqName=events/adStart
+//  biene24.de
+
+// biene24.de/wp-content/uploads/2018/09/newlogo.png
