@@ -1,3 +1,5 @@
+[Adblock Plus 3.1]
+
 netflix.com/msl/playapi/cadmium/event/1?reqAttempt=1&reqName=events/adProgress
 
 netflix.com/msl/playapi/cadmium/event/1?reqAttempt=#&reqName=events/adStart
