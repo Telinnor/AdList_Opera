@@ -1,2 +1,2 @@
 https://www.netflix.com/msl/playapi/cadmium/event/1?reqAttempt=1&reqName=events/adProgress
-https://www.biene24.de
+||biene24.de
